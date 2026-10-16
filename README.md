@@ -1,13 +1,17 @@
 # 📍 GPS Ojol — Gacor Mode
 
+
 Aplikasi helper untuk driver ojol (Gojek, Grab, Maxim, ShopeeFood, dll).
 Satu tombol mode kerja: **GPS dijaga akurat, notifikasi pengganggu dibungkam, sesi tercatat.**
+
 
 > **Jujur dulu:** aplikasi ini TIDAK menjamin orderan lebih banyak. Orderan tergantung banyak faktor.
 > Yang dilakukan aplikasi ini: memastikan HP kamu **siap tempur** — GPS akurat, koneksi terjaga,
 > notifikasi penting tetap masuk.
 
+
 ## ✨ Fitur
+
 
 - **Tombol Mode** — sekali ketuk: GPS akurasi tinggi dijaga tetap aktif (foreground service)
 - **GPS LOCKED badge** — indikator akurasi GPS real-time
@@ -23,11 +27,21 @@ Satu tombol mode kerja: **GPS dijaga akurat, notifikasi pengganggu dibungkam, se
 - **Bantuan** — penjelasan tiap fitur di dalam aplikasi (ikon "?" / baris Bantuan)
 - **Wizard setup** — panduan 4 langkah saat pertama dibuka
 
+
+## 📸 Tangkapan Layar
+
+![Dashboard utama](dashboard.jpg)
+![Layar Bantuan](bantuan.jpg)
+
+
 ## ⬇️ Download
+
 
 Ambil APK terbaru di halaman **Releases** (pilih versi paling atas) — lalu download file `.apk`-nya.
 
+
 ## 📲 Cara install
+
 
 1. Download file APK dari halaman Releases
 2. Buka file-nya → izinkan **"Install dari sumber tak dikenal"** bila diminta
@@ -35,7 +49,9 @@ Ambil APK terbaru di halaman **Releases** (pilih versi paling atas) — lalu dow
    (aplikasi ini didistribusikan mandiri, belum lewat Play Store)
 4. Buka aplikasi, ikuti wizard setup 4 langkah
 
+
 ## 🛡️ Keamanan & privasi
+
 
 - **100% offline** — tidak ada server, tidak ada data yang dikirim ke mana pun
 - **Tanpa fake GPS, tanpa auto-klik/auto-accept, tanpa modifikasi aplikasi ojol**
@@ -43,15 +59,21 @@ Ambil APK terbaru di halaman **Releases** (pilih versi paling atas) — lalu dow
 - Izin yang dipakai: lokasi (GPS), akses Jangan Ganggu, pengecualian optimisasi baterai,
   status jaringan — semuanya dijelaskan di layar Bantuan dalam aplikasi
 
+
 ## 📝 Changelog
+
 
 Riwayat perubahan tiap versi: lihat [CHANGELOG.md](CHANGELOG.md).
 
+
 ## 🐞 Lapor bug
+
 
 Punya keluhan atau ide fitur? Buka tab **Issues** di repository ini dan ceritakan
 (plus screenshot kalau ada).
 
+
 ## ⚖️ Lisensi
+
 
 MIT — bebas dipakai, diubah, dan disebarluaskan.
